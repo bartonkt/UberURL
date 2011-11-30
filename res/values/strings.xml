@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Über URL</string>
+    <string name="no_URLs">No URLs Yet</string>
+    <string name="menu_insert">Add URL</string>
+    <string name="menu_delete">Delete URL</string>
+    <string name="menu_launch">Launch URL</string>
+    <string name="title">URL:</string>
+    <string name="confirm">Save</string>
+    <string name="edit_note">Edit URL</string>
+</resources>
